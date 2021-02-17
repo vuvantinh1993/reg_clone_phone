@@ -1,0 +1,11 @@
+C:\Users\TINHVU\Desktop\Tool_regnick\bin\Debug\Tool_regnick.exe.config
+C:\Users\TINHVU\Desktop\Tool_regnick\bin\Debug\Tool_regnick.exe
+C:\Users\TINHVU\Desktop\Tool_regnick\bin\Debug\Tool_regnick.pdb
+C:\Users\TINHVU\Desktop\Tool_regnick\obj\Debug\Tool_regnick.csprojAssemblyReference.cache
+C:\Users\TINHVU\Desktop\Tool_regnick\obj\Debug\Tool_regnick.Form1.resources
+C:\Users\TINHVU\Desktop\Tool_regnick\obj\Debug\Tool_regnick.Properties.Resources.resources
+C:\Users\TINHVU\Desktop\Tool_regnick\obj\Debug\Tool_regnick.csproj.GenerateResource.cache
+C:\Users\TINHVU\Desktop\Tool_regnick\obj\Debug\Tool_regnick.csproj.CoreCompileInputs.cache
+C:\Users\TINHVU\Desktop\Tool_regnick\obj\Debug\Tool_regnick.csproj.CopyComplete
+C:\Users\TINHVU\Desktop\Tool_regnick\obj\Debug\Tool_regnick.exe
+C:\Users\TINHVU\Desktop\Tool_regnick\obj\Debug\Tool_regnick.pdb
